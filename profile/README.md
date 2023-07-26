@@ -1,6 +1,15 @@
 <img width="auto" src="https://github.com/HeroCodeBR/.github/blob/main/GITHUB.png">
 
 
+Transforme-se do zero ao herói na programação com a Hero Code! Nossa missão é capacitar pessoas a conquistarem seu primeiro emprego e se destacarem como programadores de excelência.
+<br />
+Com um ensino voltado para o que o mercado precisa e com projetos práticos, proporcionamos uma experiência de aprendizado imersiva. Do domínio das tecnologias mais atuais às melhores práticas de desenvolvimento, oferecemos o suporte necessário para você brilhar no mercado.
+<br />
+Una-se à comunidade Hero Code e trilhe seu caminho para o sucesso na programação.
+
+Evolua com a gente na [Semana do Herói](https://herocode.com.br/semana-heroi)
+
+Participe da [nossa comunidade no discord](https://discord.gg/ThYR2y6r8m)
 <!--
 
 **Here are some ideas to get you started:**
