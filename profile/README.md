@@ -1,5 +1,7 @@
 <img width="auto" src="https://github.com/HeroCodeBR/.github/blob/main/GITHUB.png">
 
+# Inscrições abertas o melhor treinamento Fullstack!
+## Clique aqui e saiba mais: [Hero Pro](https://herocode.com.br/hero-pro?utm_campaign=github&utm_source=bio)
 
 Transforme-se do zero ao herói na programação com a Hero Code! Nossa missão é capacitar pessoas a conquistarem seu primeiro emprego e se destacarem como programadores de excelência.
 <br /><br />
